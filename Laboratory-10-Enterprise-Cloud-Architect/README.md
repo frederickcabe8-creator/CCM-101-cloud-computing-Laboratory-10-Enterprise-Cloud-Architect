@@ -13,7 +13,7 @@
 
 **CCM101 Cloud Computing · Laboratory 10 · Mission 10: The Enterprise Cloud Architect**
 
-By **Prince Edrian P. Casem** · BSIT 4-M · University of Eastern Pangasinan
+By **Frederick P. Cabe** · BSIT 4-M · University of Eastern Pangasinan
 
 </div>
 
