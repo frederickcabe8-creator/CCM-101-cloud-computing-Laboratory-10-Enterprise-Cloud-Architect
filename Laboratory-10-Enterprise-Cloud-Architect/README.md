@@ -173,6 +173,6 @@ Everything else is in the [operational manual](operational-manual.md).
 
 ## 👤 Author
 
-**Prince Edrian P. Casem**
+**Frederick P. Cabe**
 BSIT 4-M · University of Eastern Pangasinan
 CCM101 Cloud Computing, November 2026
